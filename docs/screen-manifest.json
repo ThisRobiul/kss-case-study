@@ -1,0 +1,279 @@
+{
+  "formatVersion": 1,
+  "project": "Kahaloo Smart Seba",
+  "visuals": "UI concepts based on supplied screenshots; demo records",
+  "screens": [
+    {
+      "group": "android",
+      "file": "screens/android/android-01-home.jpg",
+      "title": "Service hub",
+      "route": "prototypes/android/index.html?screen=home",
+      "caption": "Service discovery with search, featured categories and common local services.",
+      "source": "Original Android app captures"
+    },
+    {
+      "group": "android",
+      "file": "screens/android/android-02-services.jpg",
+      "title": "All services",
+      "route": "prototypes/android/index.html?screen=services",
+      "caption": "A readable directory of local service categories.",
+      "source": "Original Android app captures"
+    },
+    {
+      "group": "android",
+      "file": "screens/android/android-03-doctors.jpg",
+      "title": "Doctors & serials",
+      "route": "prototypes/android/index.html?screen=doctors",
+      "caption": "Specialty discovery and appointment entry points, using demo provider records.",
+      "source": "Original Android app captures"
+    },
+    {
+      "group": "android",
+      "file": "screens/android/android-04-assistant.jpg",
+      "title": "Kahaloo AI",
+      "route": "prototypes/android/index.html?screen=assistant",
+      "caption": "A service-assistance conversation concept based on the supplied chat screen.",
+      "source": "Original Android app captures"
+    },
+    {
+      "group": "android",
+      "file": "screens/android/android-05-profile.jpg",
+      "title": "Account overview",
+      "route": "prototypes/android/index.html?screen=profile",
+      "caption": "A sample account view with service requests and account actions.",
+      "source": "Original Android app captures"
+    },
+    {
+      "group": "android",
+      "file": "screens/android/android-06-signin.jpg",
+      "title": "Sign in",
+      "route": "prototypes/android/index.html?screen=signin",
+      "caption": "An account-access presentation with no live authentication connection.",
+      "source": "Original Android app captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-01-home.jpg",
+      "title": "Public service directory",
+      "route": "prototypes/web/index.html?screen=home",
+      "caption": "The public website unifies local service discovery.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-02-assistant.jpg",
+      "title": "Kahaloo AI on web",
+      "route": "prototypes/web/index.html?screen=assistant",
+      "caption": "A browser-based service-assistance interface.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-03-doctors.jpg",
+      "title": "Doctor services",
+      "route": "prototypes/web/index.html?screen=doctors",
+      "caption": "Specialty navigation and sample service-provider cards.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-04-healthcare.jpg",
+      "title": "Healthcare overview",
+      "route": "prototypes/web/index.html?screen=healthcare",
+      "caption": "Healthcare categories and service entry points.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-05-healthcare-categories.jpg",
+      "title": "Healthcare categories",
+      "route": "prototypes/web/index.html?screen=healthcare-categories",
+      "caption": "A focused directory for health service categories.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-06-blood.jpg",
+      "title": "Blood donation directory",
+      "route": "prototypes/web/index.html?screen=blood",
+      "caption": "Blood-group discovery with anonymous demonstration records.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-07-technicians.jpg",
+      "title": "Local technicians",
+      "route": "prototypes/web/index.html?screen=technicians",
+      "caption": "Trades and home-service categories.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-08-education.jpg",
+      "title": "Education services",
+      "route": "prototypes/web/index.html?screen=education",
+      "caption": "Education and tutoring service categories.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "web",
+      "file": "screens/web/web-09-transport.jpg",
+      "title": "Transport services",
+      "route": "prototypes/web/index.html?screen=transport",
+      "caption": "Vehicle and local transport service categories.",
+      "source": "Original public web captures"
+    },
+    {
+      "group": "hospital",
+      "file": "screens/hospital/hospital-01-dashboard.jpg",
+      "title": "Care operations overview",
+      "route": "prototypes/hospital/index.html?screen=dashboard",
+      "caption": "A focused dashboard for appointments and queue coordination.",
+      "source": "Dashboard and navigation references"
+    },
+    {
+      "group": "hospital",
+      "file": "screens/hospital/hospital-02-appointments.jpg",
+      "title": "Appointment management",
+      "route": "prototypes/hospital/index.html?screen=appointments",
+      "caption": "Sample tokens, chamber, visit state and approval state.",
+      "source": "Dashboard and navigation references"
+    },
+    {
+      "group": "hospital",
+      "file": "screens/hospital/hospital-03-queue.jpg",
+      "title": "Live queue concept",
+      "route": "prototypes/hospital/index.html?screen=queue",
+      "caption": "An illustrative presentation of waiting, consultation and completion.",
+      "source": "Dashboard and navigation references"
+    },
+    {
+      "group": "hospital",
+      "file": "screens/hospital/hospital-04-team.jpg",
+      "title": "Doctor & staff workspace",
+      "route": "prototypes/hospital/index.html?screen=team",
+      "caption": "A proposed team view based on navigation visible in the reference.",
+      "source": "Dashboard and navigation references"
+    },
+    {
+      "group": "hospital",
+      "file": "screens/hospital/hospital-05-tv.jpg",
+      "title": "Waiting-room display concept",
+      "route": "prototypes/hospital/index.html?screen=tv",
+      "caption": "A proposed display layout based on the TV Display menu entry.",
+      "source": "Dashboard and navigation references"
+    },
+    {
+      "group": "hospital",
+      "file": "screens/hospital/hospital-06-settings.jpg",
+      "title": "Chamber settings concept",
+      "route": "prototypes/hospital/index.html?screen=settings",
+      "caption": "A proposed settings layout using neutral sample content.",
+      "source": "Dashboard and navigation references"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-01-dashboard-overview.png",
+      "title": "Platform dashboard",
+      "route": "prototypes/super-admin/index.html#dashboard",
+      "caption": "Overview with values reproduced or illustrated from the original reference; no live analytics.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-02-account-verifications-kyc.png",
+      "title": "Account verifications",
+      "route": "prototypes/super-admin/index.html#verifications",
+      "caption": "Account review and verification concept.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-03-notice-management.png",
+      "title": "Notice management",
+      "route": "prototypes/super-admin/index.html#notices",
+      "caption": "Community notice publishing and organisation.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-04-categories-management.png",
+      "title": "Category management",
+      "route": "prototypes/super-admin/index.html#categories",
+      "caption": "Service taxonomy management.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-05-referrals-and-coins.png",
+      "title": "Referrals & coins",
+      "route": "prototypes/super-admin/index.html#referrals",
+      "caption": "Referral administration concept.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-06-posts-management.png",
+      "title": "Post management",
+      "route": "prototypes/super-admin/index.html#posts",
+      "caption": "Content review and organisation.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-07-sections-management.png",
+      "title": "Section management",
+      "route": "prototypes/super-admin/index.html#sections",
+      "caption": "Top-level service organisation.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-08-locations-management.png",
+      "title": "Location management",
+      "route": "prototypes/super-admin/index.html#locations",
+      "caption": "Geographic service organisation.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-09-form-management.png",
+      "title": "Form management",
+      "route": "prototypes/super-admin/index.html#forms",
+      "caption": "Service-specific form administration.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-10-dynamic-form-builder-concept.png",
+      "title": "Proposed form builder",
+      "route": "prototypes/super-admin/index.html#form-builder",
+      "caption": "Additional design exploration; a complete form editor was not demonstrated in the sources.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-11-admin-management.png",
+      "title": "Administrator management",
+      "route": "prototypes/super-admin/index.html#admins",
+      "caption": "Administrative account management concept.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-12-system-settings.png",
+      "title": "System settings",
+      "route": "prototypes/super-admin/index.html#settings",
+      "caption": "System-setting presentation.",
+      "source": "Retained sanitized Super Admin concept set"
+    },
+    {
+      "group": "super-admin",
+      "file": "screens/super-admin/super-admin-13-notifications.png",
+      "title": "Notifications",
+      "route": "prototypes/super-admin/index.html#notifications",
+      "caption": "Notification management concept.",
+      "source": "Retained sanitized Super Admin concept set"
+    }
+  ]
+}
