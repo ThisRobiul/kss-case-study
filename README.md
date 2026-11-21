@@ -144,3 +144,6 @@ The work demonstrates product planning and development across public and adminis
 ---
 
 **Built and documented by Robiul Islam.** Public project documentation and UI presentation; proprietary application source is excluded.
+
+
+<!-- Trigger GitHub Pages deployment -->
